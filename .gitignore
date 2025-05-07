@@ -175,3 +175,7 @@ cython_debug/
 credential.txt
 local_s3/
 notebooks/
+
+data/
+models/
+projectflow.txt

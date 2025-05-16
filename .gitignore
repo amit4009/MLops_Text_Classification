@@ -172,3 +172,10 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+credential.txt
+local_s3/
+notebooks/
+
+
+models/
+projectflow.txt

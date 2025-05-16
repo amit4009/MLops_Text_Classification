@@ -31,8 +31,8 @@ mlflow.set_tracking_uri(f'{dagshub_url}/{repo_owner}/{repo_name}.mlflow')
 
 # Below code block is for local use
 # -------------------------------------------------------------------------------------
-mlflow.set_tracking_uri('https://dagshub.com/i2pandit/MLops_Text_Classification.mlflow')
-dagshub.init(repo_owner='i2pandit', repo_name='MLops_Text_Classification', mlflow=True)
+# mlflow.set_tracking_uri('https://dagshub.com/i2pandit/MLops_Text_Classification.mlflow')
+# dagshub.init(repo_owner='i2pandit', repo_name='MLops_Text_Classification', mlflow=True)
 # -------------------------------------------------------------------------------------
 
 
